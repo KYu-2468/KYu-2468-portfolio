@@ -8,9 +8,10 @@
 <div align="center">
 
   <h3 align="center">Kevin Yu's Portfolio Website</h3>
-  <p align="center">[My portoflio website](https://kyu-2468.github.io/)]</p>
 
 </div>
+
+My portfolio website: [Link](https://kyu-2468.github.io/)]
 
 <!-- ABOUT THE PROJECT -->
 
