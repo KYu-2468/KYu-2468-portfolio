@@ -15,7 +15,7 @@ My portfolio website: [Link](https://kyu-2468.github.io/)
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## About Me
 
 Hey there, nice to meet you!
 
