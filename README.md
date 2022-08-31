@@ -8,8 +8,6 @@
 
 </div>
 
-My portfolio website: [Link](https://kyu-2468.github.io/)
-
 <!-- ABOUT THE PROJECT -->
 
 ## About Me
@@ -28,7 +26,9 @@ I want to be a software developer because I would love to utilize my problem-sol
 ## Contact
 
 Kevin Yu - [linkedin.com/in/kevinyu2468](www.linkedin.com/in/kevinyu2468)
+
 Portfolio Link: [https://github.com/KYu-2468/KYu-2468.github.io](https://github.com/KYu-2468/KYu-2468.github.io)
+
 Email - Kevin.Yu.2468@protonmail.com
 
 <!-- LICENSE -->
