@@ -19,7 +19,8 @@ My portfolio website: [Link](https://kyu-2468.github.io/)
 
 Hey there, nice to meet you!
 
-I'm Kevin, a recent grad of Fullstack Academy's Software Engineering Program. I'm enthuatic about learning new technologies, solving real-world problems, and helping people around me.
+I'm Kevin, a recent grad from Fullstack Academy's Software Engineering Program.
+I'm enthusiastic about learning new technologies, solving real-world problems, and helping people around me.
 
 Why I'm interested in a career in software engineering:
 
