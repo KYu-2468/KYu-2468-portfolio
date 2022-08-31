@@ -27,7 +27,9 @@ I want to be a software developer because I would love to utilize my problem-sol
 
 Kevin Yu - [linkedin.com/in/kevinyu2468](www.linkedin.com/in/kevinyu2468)
 
-Portfolio Link: [https://github.com/KYu-2468/KYu-2468.github.io](https://github.com/KYu-2468/KYu-2468.github.io)
+Portfolio Website: [https://github.com/KYu-2468/KYu-2468.github.io](https://github.com/KYu-2468/KYu-2468.github.io)
+
+Github: [https://github.com/KYu-2468](https://github.com/KYu-2468)
 
 Email - Kevin.Yu.2468@protonmail.com
 
