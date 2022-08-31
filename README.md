@@ -11,7 +11,7 @@
 
 </div>
 
-My portfolio website: [Link](https://kyu-2468.github.io/)]
+My portfolio website: [Link](https://kyu-2468.github.io/)
 
 <!-- ABOUT THE PROJECT -->
 
@@ -19,17 +19,11 @@ My portfolio website: [Link](https://kyu-2468.github.io/)]
 
 Hey there, nice to meet you!
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+I'm Kevin, a recent grad of Fullstack Academy's Software Engineering Program. I'm enthuatic about learning new technologies, solving real-world problems, and helping people around me.
 
-Here's why:
+Why I'm interested in a career in software engineering:
 
-- Your time should be focused on creating something amazing. A project that solves a problem and helps others
-- You shouldn't be doing the same tasks over and over like creating a README from scratch
-- You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+I want to be a software developer because I would love to utilize my problem-solving skills to develop meaningful applications that solve real-world problems. Software and apps have always been a significant part of my world since I was a kid; from video games to automation, software is all around us. My past work experience as a software engineer intern further confirmed that I'm choosing the right path toward software development as I've seen firsthand how powerful software can be and the unlimited potential of becoming a software developer.
 
 <!-- CONTACT -->
 
