@@ -1129,3 +1129,7 @@ section {
   width: 80vw;
   margin-top: 1rem;
 }
+
+#footer {
+  opacity: 10%;
+}
